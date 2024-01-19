@@ -1,16 +1,12 @@
-### Hi there 👋
+# Heya! I'm Alyner 👋
 
-<!--
-**Alyner3/alyner3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🌟
+- 🎓 Physics undergraduate with a strong inclination towards computational methods.
+- 💼 Part-time Student Employee at an AI company, researching computer vision models.
+- 🖥️ Proficient in languages like Python, C#, C++, JavaScript, and TypeScript.
+- 🐧 Dual booting Arch Linux and Windows, experienced with server management, including Type 1 hypervisor servers, and virtualization.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests 🚀
+- 🧬 Fascinated by diffusion models and latent space manipulation in AI, still exploring and learning.
+- 🌊 Passionate about fluid simulations as a part of my physics studies.
+- 🖥️ Hardware enthusiast, from gaming setups to small servers and Raspberry Pi projects
